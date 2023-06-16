@@ -982,6 +982,10 @@ font-weight: 900;
 
 @media (max-width:700px) {
 
+    .main{
+        overflow-x: hidden;
+       }
+
 
 
 
@@ -995,7 +999,7 @@ font-weight: 900;
         left: 0%;
        
         position: fixed;
-        width: 100%;
+        width: 100vw;
         background-color: #0e10124a;
         opacity: 1;
        padding: 19px 5vw;
