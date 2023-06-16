@@ -244,7 +244,7 @@ gsap.to(".pagethree",{
 
 
 var swit =document.querySelector("#switch")
-var body=document.querySelector("body")
+var body=document.querySelector(".main")
 var black=document.querySelector(".black")
 
 

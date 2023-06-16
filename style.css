@@ -301,6 +301,8 @@ font-weight: 900;
 }
 
 
+
+
 .imageleft{
     position: absolute;
     width:31.25vw;
@@ -984,8 +986,10 @@ font-weight: 900;
 
     .main{
         overflow-x: hidden;
-       }
+        width: 100vw;
+    }
 
+    
 
 
 
@@ -998,12 +1002,13 @@ font-weight: 900;
         top: 0%;
         left: 0%;
        
-        position: fixed;
+      
         width: 100vw;
         background-color: #0e10124a;
         opacity: 1;
        padding: 19px 5vw;
         backdrop-filter: blur(16px);
+        position: fixed;
        
        
        
